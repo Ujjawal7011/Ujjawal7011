@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ujjawal7011
+- 👋 Hi, I’m Ujjawal
 - 👀 I’m interested in Learning 
 - 🌱 I’m currently learning DS
-- 📫 How to reach me ?
+- 
 
 <!---
 Ujjawal7011/Ujjawal7011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
